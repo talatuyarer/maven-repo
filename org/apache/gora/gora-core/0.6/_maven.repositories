@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sun Dec 14 21:59:13 EET 2014
+gora-core-0.6.jar>=
+gora-core-0.6.pom>=
+gora-core-0.6-tests.jar>=
