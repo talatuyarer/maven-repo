@@ -619,7 +619,6 @@
     <hadoop-1.version>1.2.1</hadoop-1.version>
     <hadoop-2.version>2.4.0</hadoop-2.version>
     <hadoop.test.version>1.2.1</hadoop.test.version>
-<!--     <hbase.version>0.94.14</hbase.version> -->
     <hbase.version>0.98.8-hadoop1</hbase.version>
     <hbase.test.version>0.98.8-hadoop1</hbase.test.version>
     <cxf-rt-frontend-jaxrs.version>2.5.2</cxf-rt-frontend-jaxrs.version>
