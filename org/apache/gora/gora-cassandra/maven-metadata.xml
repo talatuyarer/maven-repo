@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.apache.gora</groupId>
+  <artifactId>gora-cassandra</artifactId>
+  <versioning>
+    <versions>
+      <version>0.6-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20150102131616</lastUpdated>
+  </versioning>
+</metadata>
